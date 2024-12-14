@@ -9,3 +9,6 @@ A repository dedicated to my studies on Algorithms.
 
 ### Stack and Queue
 - [What are Stack and Queue](./Stack-and-Queue/What-is-Stack-and-Queue.md)
+
+### Quick Sort
+- [What is Quick Sort](./Quick-Sort/What-is-Quick-Sort.md)
