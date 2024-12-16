@@ -14,3 +14,5 @@ QuickSort works on the principle of divide and conquer, breaking down the proble
 
 #### Here’s a basic overview of how the QuickSort algorithm works.
 ![image](https://github.com/user-attachments/assets/dc868d60-5e00-4e75-bbf0-2d7f3eac6352)
+
+![Sorting_quicksort_anim](https://github.com/user-attachments/assets/41671eb2-8078-46c2-a44b-480fbe28f057)
